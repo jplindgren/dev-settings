@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.renderWhitespace": "boundary",
+    "files.trimTrailingWhitespace": true,
+    "prettier.printWidth": 130,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "vssolution.xmlClosingTagSpace": false
+}
