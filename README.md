@@ -1,2 +1,5 @@
-# my-vscode-extensions
-My VSCODE extensions.
+# my-dev-extensions
+VSCODE:
+  settings.json
+  keybindings.json
+  extensions
