@@ -1,5 +1,5 @@
 # my-dev-extensions
 VSCODE:
-  settings.json
-  keybindings.json
-  extensions
+  - settings.json
+  - keybindings.json
+  - extensions
